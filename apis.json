@@ -1,0 +1,53 @@
+{
+    "name": "The Invoice Machine",
+    "description": "The Invoice Machine is an online invoicing service which simplifies your invoicing and makes it beautiful.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/425-the-invoice-machine.jpg",
+    "tags": [
+        "financial",
+        "have api",
+        "invoices"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-invoice-machine\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Invoice Machine",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/425-the-invoice-machine.jpg",
+            "humanURL": "http:\/\/invoicemachine.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-invoice-machine-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/twitter.com\/letthedataflow"
+        },
+        {
+            "type": "Email",
+            "url": "info@invoicemachine.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/invoicemachine"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/invoicemachine"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/invoicemachine.com\/api"
+        }
+    ]
+}
